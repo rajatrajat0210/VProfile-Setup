@@ -10,7 +10,9 @@ Welcome to the **VProfile** project! This repository contains everything you nee
 
 
 ✅ **Manual VM Provisioning** 🖥️ - Step-by-step setup using Vagrant 
-✅ **Automated VM Provisioning** ⚙️ - Provisioning via Vagrant & Ansible  
+
+✅ **Automated VM Provisioning** ⚙️ - Provisioning via Vagrant & Ansible 
+
 ✅ **Docker-based Deployment** 🐳 - Fully containerized setup using Docker  
 
 ---
