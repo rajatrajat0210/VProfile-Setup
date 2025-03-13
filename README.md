@@ -2,11 +2,10 @@
 
 Welcome to the **VProfile** project! This repository contains everything you need to deploy a **multi-tier web application** using different methods:
 
-![image alt]()
-![image alt]()
-![image alt]()
-
-
+![image alt](https://github.com/rajatrajat0210/VProfile-Setup/blob/main/vprofile1.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/VProfile-Setup/blob/main/vprofile2.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/VProfile-Setup/blob/main/vprofile3.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/VProfile-Setup/blob/main/dockerimg.jpg?raw=true)
 
 
 
