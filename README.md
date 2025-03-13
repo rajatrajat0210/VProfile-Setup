@@ -31,8 +31,8 @@ VProfile is a **multi-tier web application** that consists of multiple services 
 
 ---
 
-# 🛠️ **1️⃣ Manual VM Provisioning**
-In this method, each service is set up on a separate **Virtual Machine** (VM) manually.
+# 🛠️ **1️⃣ VM Provisioning**
+In this method, each service is set up on a separate **Virtual Machine** (VM) manually and automatically.
 
 ### **🛠️ Prerequisites**
 - **Oracle VM VirtualBox** 🏗️
